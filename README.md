@@ -7,6 +7,9 @@ Here you will find all my github projects.
 
 ### Natural Language Processing
 
+   + [Identification of French truncated forms](https://github.com/ninohdasilva/Identification-of-French-truncated-forms)
+       <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" />
+
    + [POS Tagging Perceptron from scratch](https://github.com/ninohdasilva/POSTaggingPerceptron)   
         <img alt="Java" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
 
